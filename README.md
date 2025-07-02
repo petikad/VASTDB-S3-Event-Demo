@@ -7,7 +7,7 @@ This repository contains the files required to demonstrate how the VAST Database
 -	Admin Access to the cluster.
 -	A VIP Pool that is not in use by a Kafka View.
 -	A Docker Host that has access to both the VMS network and the network defined in the VIP Pool.
--	
+  
 # Building and connecting to the Docker Container for the demo
 -	Download the files from the repository to the Docker Host.
 -	Build the docker image:

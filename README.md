@@ -10,6 +10,7 @@ This repository contains the files required to demonstrate how the VAST Database
   
 # Building and connecting to the Docker Container for the demo
 -	Download the files from the repository to the Docker Host.
+-	Follow the instructions in the Dockerfile to obtain the VAST Database connector for Spark.
 -	Build the docker image:
     docker build –no-cache -t vasts3eventdemo:1.0 . 
 -	Run the docker image:
